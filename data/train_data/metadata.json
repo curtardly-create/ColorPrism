@@ -1,0 +1,3571 @@
+{
+  "family_summer_001": {
+    "asset_id": "family_summer_001",
+    "filename": "family_summer_001.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_001.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T17:25:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p02",
+        "role_guess": "child",
+        "emotion": "joyful",
+        "face_quality": 0.95
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "parent",
+        "emotion": "happy",
+        "face_quality": 0.9
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.91,
+      "sharpness": 0.74,
+      "exposure": 0.66,
+      "duplicate_score": 0.15
+    },
+    "semantic_caption": "一家人在草地上野餐，笑声不断",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_002": {
+    "asset_id": "family_summer_002",
+    "filename": "family_summer_002.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_002.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T17:25:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p02",
+        "role_guess": "parent",
+        "emotion": "joyful",
+        "face_quality": 0.78
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "smiling",
+      "hugging",
+      "playing"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.74,
+      "sharpness": 0.82,
+      "exposure": 0.72,
+      "duplicate_score": 0.07
+    },
+    "semantic_caption": "阳光透过树叶洒在草地上，孩子在追泡泡",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_003": {
+    "asset_id": "family_summer_003",
+    "filename": "family_summer_003.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_003.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T17:22:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p05",
+        "role_guess": "child",
+        "emotion": "joyful",
+        "face_quality": 0.94
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "playing",
+      "hugging",
+      "smiling"
+    ],
+    "emotion": "warm",
+    "quality": {
+      "aesthetic": 0.77,
+      "sharpness": 0.82,
+      "exposure": 0.7,
+      "duplicate_score": 0.17
+    },
+    "semantic_caption": "傍晚一家人在公园散步，孩子开心地跑在前面",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_004": {
+    "asset_id": "family_summer_004",
+    "filename": "family_summer_004.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_004.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T18:12:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "child",
+        "emotion": "joyful",
+        "face_quality": 0.79
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "child",
+        "emotion": "happy",
+        "face_quality": 0.84
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.9,
+      "sharpness": 0.87,
+      "exposure": 0.87,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "父母牵着孩子的手走在夕阳下的公园小路上",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_005": {
+    "asset_id": "family_summer_005",
+    "filename": "family_summer_005.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_005.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T19:28:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "child",
+        "emotion": "warm",
+        "face_quality": 0.73
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "parent",
+        "emotion": "joyful",
+        "face_quality": 0.72
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "smiling",
+      "hugging"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.9,
+      "sharpness": 0.82,
+      "exposure": 0.85,
+      "duplicate_score": 0.06
+    },
+    "semantic_caption": "阳光透过树叶洒在草地上，孩子在追泡泡",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_006": {
+    "asset_id": "family_summer_006",
+    "filename": "family_summer_006.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_006.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T19:15:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p05",
+        "role_guess": "child",
+        "emotion": "joyful",
+        "face_quality": 0.88
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "walking",
+      "playing",
+      "smiling"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.74,
+      "sharpness": 0.77,
+      "exposure": 0.7,
+      "duplicate_score": 0.15
+    },
+    "semantic_caption": "傍晚一家人在公园散步，孩子开心地跑在前面",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_007": {
+    "asset_id": "family_summer_007",
+    "filename": "family_summer_007.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_007.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T18:36:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p03",
+        "role_guess": "parent",
+        "emotion": "warm",
+        "face_quality": 0.9
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "child",
+        "emotion": "joyful",
+        "face_quality": 0.91
+      },
+      {
+        "person_id": "p01",
+        "role_guess": "child",
+        "emotion": "happy",
+        "face_quality": 0.77
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "walking",
+      "playing"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.74,
+      "sharpness": 0.88,
+      "exposure": 0.69,
+      "duplicate_score": 0.13
+    },
+    "semantic_caption": "阳光透过树叶洒在草地上，孩子在追泡泡",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_008": {
+    "asset_id": "family_summer_008",
+    "filename": "family_summer_008.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_008.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T20:23:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p03",
+        "role_guess": "parent",
+        "emotion": "happy",
+        "face_quality": 0.82
+      },
+      {
+        "person_id": "p03",
+        "role_guess": "parent",
+        "emotion": "joyful",
+        "face_quality": 0.74
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "walking",
+      "hugging"
+    ],
+    "emotion": "warm",
+    "quality": {
+      "aesthetic": 0.83,
+      "sharpness": 0.79,
+      "exposure": 0.73,
+      "duplicate_score": 0.14
+    },
+    "semantic_caption": "一家人在草地上野餐，笑声不断",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_009": {
+    "asset_id": "family_summer_009",
+    "filename": "family_summer_009.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_009.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T18:20:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "parent",
+        "emotion": "warm",
+        "face_quality": 0.93
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "parent",
+        "emotion": "joyful",
+        "face_quality": 0.81
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "hugging"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.95,
+      "sharpness": 0.92,
+      "exposure": 0.7,
+      "duplicate_score": 0.05
+    },
+    "semantic_caption": "傍晚一家人在公园散步，孩子开心地跑在前面",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_010": {
+    "asset_id": "family_summer_010",
+    "filename": "family_summer_010.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_010.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T21:30:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "parent",
+        "emotion": "joyful",
+        "face_quality": 0.81
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "smiling",
+      "playing"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.86,
+      "sharpness": 0.76,
+      "exposure": 0.83,
+      "duplicate_score": 0.15
+    },
+    "semantic_caption": "阳光透过树叶洒在草地上，孩子在追泡泡",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_011": {
+    "asset_id": "family_summer_011",
+    "filename": "family_summer_011.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_011.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T21:10:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p05",
+        "role_guess": "parent",
+        "emotion": "joyful",
+        "face_quality": 0.93
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "child",
+        "emotion": "warm",
+        "face_quality": 0.83
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "playing",
+      "smiling",
+      "running"
+    ],
+    "emotion": "warm",
+    "quality": {
+      "aesthetic": 0.92,
+      "sharpness": 0.87,
+      "exposure": 0.67,
+      "duplicate_score": 0.15
+    },
+    "semantic_caption": "阳光透过树叶洒在草地上，孩子在追泡泡",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_012": {
+    "asset_id": "family_summer_012",
+    "filename": "family_summer_012.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_012.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T22:30:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p02",
+        "role_guess": "parent",
+        "emotion": "happy",
+        "face_quality": 0.8
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "parent",
+        "emotion": "warm",
+        "face_quality": 0.78
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "playing",
+      "smiling",
+      "walking"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.69,
+      "sharpness": 0.82,
+      "exposure": 0.78,
+      "duplicate_score": 0.11
+    },
+    "semantic_caption": "父母牵着孩子的手走在夕阳下的公园小路上",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_013": {
+    "asset_id": "family_summer_013",
+    "filename": "family_summer_013.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_013.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T20:36:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p03",
+        "role_guess": "parent",
+        "emotion": "happy",
+        "face_quality": 0.9
+      },
+      {
+        "person_id": "p01",
+        "role_guess": "child",
+        "emotion": "joyful",
+        "face_quality": 0.75
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "playing",
+      "walking",
+      "smiling"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.91,
+      "sharpness": 0.9,
+      "exposure": 0.68,
+      "duplicate_score": 0.09
+    },
+    "semantic_caption": "父母牵着孩子的手走在夕阳下的公园小路上",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_014": {
+    "asset_id": "family_summer_014",
+    "filename": "family_summer_014.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_014.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T23:17:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "parent",
+        "emotion": "warm",
+        "face_quality": 0.73
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "parent",
+        "emotion": "warm",
+        "face_quality": 0.89
+      },
+      {
+        "person_id": "p03",
+        "role_guess": "child",
+        "emotion": "warm",
+        "face_quality": 0.95
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "hugging",
+      "playing"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.86,
+      "sharpness": 0.94,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "傍晚一家人在公园散步，孩子开心地跑在前面",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_015": {
+    "asset_id": "family_summer_015",
+    "filename": "family_summer_015.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_015.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T21:12:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "child",
+        "emotion": "warm",
+        "face_quality": 0.77
+      },
+      {
+        "person_id": "p05",
+        "role_guess": "parent",
+        "emotion": "warm",
+        "face_quality": 0.75
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "smiling",
+      "playing",
+      "walking"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.8,
+      "sharpness": 0.8,
+      "exposure": 0.69,
+      "duplicate_score": 0.09
+    },
+    "semantic_caption": "孩子在沙滩上奔跑，海浪拍打着脚踝",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_016": {
+    "asset_id": "family_summer_016",
+    "filename": "family_summer_016.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_016.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-02T04:00:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p05",
+        "role_guess": "child",
+        "emotion": "happy",
+        "face_quality": 0.93
+      },
+      {
+        "person_id": "p03",
+        "role_guess": "child",
+        "emotion": "warm",
+        "face_quality": 0.74
+      },
+      {
+        "person_id": "p01",
+        "role_guess": "child",
+        "emotion": "warm",
+        "face_quality": 0.93
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.91,
+      "sharpness": 0.85,
+      "exposure": 0.82,
+      "duplicate_score": 0.05
+    },
+    "semantic_caption": "父母牵着孩子的手走在夕阳下的公园小路上",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_017": {
+    "asset_id": "family_summer_017",
+    "filename": "family_summer_017.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_017.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-02T02:52:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p04",
+        "role_guess": "parent",
+        "emotion": "happy",
+        "face_quality": 0.73
+      },
+      {
+        "person_id": "p03",
+        "role_guess": "parent",
+        "emotion": "warm",
+        "face_quality": 0.88
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "playing",
+      "smiling"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.86,
+      "sharpness": 0.92,
+      "exposure": 0.79,
+      "duplicate_score": 0.07
+    },
+    "semantic_caption": "一家人在草地上野餐，笑声不断",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_018": {
+    "asset_id": "family_summer_018",
+    "filename": "family_summer_018.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_018.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T20:07:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p03",
+        "role_guess": "parent",
+        "emotion": "joyful",
+        "face_quality": 0.86
+      },
+      {
+        "person_id": "p01",
+        "role_guess": "child",
+        "emotion": "happy",
+        "face_quality": 0.81
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "child",
+        "emotion": "joyful",
+        "face_quality": 0.92
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "running",
+      "playing"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.86,
+      "sharpness": 0.93,
+      "exposure": 0.67,
+      "duplicate_score": 0.11
+    },
+    "semantic_caption": "孩子在沙滩上奔跑，海浪拍打着脚踝",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_019": {
+    "asset_id": "family_summer_019",
+    "filename": "family_summer_019.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_019.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-01T21:48:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p03",
+        "role_guess": "parent",
+        "emotion": "joyful",
+        "face_quality": 0.79
+      },
+      {
+        "person_id": "p01",
+        "role_guess": "parent",
+        "emotion": "happy",
+        "face_quality": 0.88
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "hugging"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.71,
+      "sharpness": 0.8,
+      "exposure": 0.68,
+      "duplicate_score": 0.16
+    },
+    "semantic_caption": "一家人在草地上野餐，笑声不断",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "family_summer_020": {
+    "asset_id": "family_summer_020",
+    "filename": "family_summer_020.jpg",
+    "source_path": "sample_gallery/family_summer/family_summer_020.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-06-02T06:56:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "深圳湾公园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p03",
+        "role_guess": "child",
+        "emotion": "joyful",
+        "face_quality": 0.9
+      },
+      {
+        "person_id": "p05",
+        "role_guess": "parent",
+        "emotion": "happy",
+        "face_quality": 0.87
+      },
+      {
+        "person_id": "p05",
+        "role_guess": "child",
+        "emotion": "joyful",
+        "face_quality": 0.79
+      }
+    ],
+    "scene_tags": [
+      "park",
+      "sunset",
+      "family",
+      "outdoor",
+      "children"
+    ],
+    "actions": [
+      "hugging"
+    ],
+    "emotion": "warm",
+    "quality": {
+      "aesthetic": 0.92,
+      "sharpness": 0.79,
+      "exposure": 0.73,
+      "duplicate_score": 0.14
+    },
+    "semantic_caption": "孩子在沙滩上奔跑，海浪拍打着脚踝",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_001": {
+    "asset_id": "city_trip_001",
+    "filename": "city_trip_001.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_001.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T09:35:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p04",
+        "role_guess": "friend",
+        "emotion": "curious",
+        "face_quality": 0.81
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "eating",
+      "walking",
+      "exploring"
+    ],
+    "emotion": "curious",
+    "quality": {
+      "aesthetic": 0.79,
+      "sharpness": 0.84,
+      "exposure": 0.74,
+      "duplicate_score": 0.12
+    },
+    "semantic_caption": "站在山顶俯瞰远处的城市天际线",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_002": {
+    "asset_id": "city_trip_002",
+    "filename": "city_trip_002.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_002.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T09:12:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p05",
+        "role_guess": "friend",
+        "emotion": "adventurous",
+        "face_quality": 0.74
+      },
+      {
+        "person_id": "p01",
+        "role_guess": "couple",
+        "emotion": "excited",
+        "face_quality": 0.86
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "photographing",
+      "eating",
+      "exploring"
+    ],
+    "emotion": "curious",
+    "quality": {
+      "aesthetic": 0.74,
+      "sharpness": 0.73,
+      "exposure": 0.82,
+      "duplicate_score": 0.18
+    },
+    "semantic_caption": "在海边拍下旅行中最灿烂的笑容",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_003": {
+    "asset_id": "city_trip_003",
+    "filename": "city_trip_003.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_003.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T10:12:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p03",
+        "role_guess": "friend",
+        "emotion": "adventurous",
+        "face_quality": 0.78
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "emotion": "adventurous",
+    "quality": {
+      "aesthetic": 0.75,
+      "sharpness": 0.88,
+      "exposure": 0.67,
+      "duplicate_score": 0.15
+    },
+    "semantic_caption": "旅行者站在标志性建筑前留下合影",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_004": {
+    "asset_id": "city_trip_004",
+    "filename": "city_trip_004.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_004.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T09:48:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p02",
+        "role_guess": "couple",
+        "emotion": "adventurous",
+        "face_quality": 0.76
+      },
+      {
+        "person_id": "p01",
+        "role_guess": "traveler",
+        "emotion": "curious",
+        "face_quality": 0.72
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "hiking",
+      "eating"
+    ],
+    "emotion": "curious",
+    "quality": {
+      "aesthetic": 0.94,
+      "sharpness": 0.77,
+      "exposure": 0.69,
+      "duplicate_score": 0.15
+    },
+    "semantic_caption": "站在山顶俯瞰远处的城市天际线",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_005": {
+    "asset_id": "city_trip_005",
+    "filename": "city_trip_005.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_005.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T11:12:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p02",
+        "role_guess": "couple",
+        "emotion": "curious",
+        "face_quality": 0.76
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "friend",
+        "emotion": "excited",
+        "face_quality": 0.79
+      },
+      {
+        "person_id": "p03",
+        "role_guess": "couple",
+        "emotion": "excited",
+        "face_quality": 0.75
+      },
+      {
+        "person_id": "p03",
+        "role_guess": "couple",
+        "emotion": "curious",
+        "face_quality": 0.89
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "eating",
+      "hiking"
+    ],
+    "emotion": "curious",
+    "quality": {
+      "aesthetic": 0.87,
+      "sharpness": 0.82,
+      "exposure": 0.68,
+      "duplicate_score": 0.12
+    },
+    "semantic_caption": "背着背包走在异国他乡的老城街道上",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_006": {
+    "asset_id": "city_trip_006",
+    "filename": "city_trip_006.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_006.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T11:30:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "traveler",
+        "emotion": "excited",
+        "face_quality": 0.76
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "couple",
+        "emotion": "curious",
+        "face_quality": 0.95
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "exploring"
+    ],
+    "emotion": "adventurous",
+    "quality": {
+      "aesthetic": 0.9,
+      "sharpness": 0.73,
+      "exposure": 0.7,
+      "duplicate_score": 0.14
+    },
+    "semantic_caption": "站在山顶俯瞰远处的城市天际线",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_007": {
+    "asset_id": "city_trip_007",
+    "filename": "city_trip_007.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_007.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T11:24:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p02",
+        "role_guess": "traveler",
+        "emotion": "curious",
+        "face_quality": 0.87
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "exploring",
+      "walking",
+      "eating"
+    ],
+    "emotion": "curious",
+    "quality": {
+      "aesthetic": 0.85,
+      "sharpness": 0.82,
+      "exposure": 0.72,
+      "duplicate_score": 0.07
+    },
+    "semantic_caption": "在海边拍下旅行中最灿烂的笑容",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_008": {
+    "asset_id": "city_trip_008",
+    "filename": "city_trip_008.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_008.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T12:37:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "traveler",
+        "emotion": "adventurous",
+        "face_quality": 0.84
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "couple",
+        "emotion": "excited",
+        "face_quality": 0.75
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "photographing"
+    ],
+    "emotion": "curious",
+    "quality": {
+      "aesthetic": 0.84,
+      "sharpness": 0.85,
+      "exposure": 0.76,
+      "duplicate_score": 0.16
+    },
+    "semantic_caption": "旅行者站在标志性建筑前留下合影",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_009": {
+    "asset_id": "city_trip_009",
+    "filename": "city_trip_009.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_009.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T13:48:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p04",
+        "role_guess": "traveler",
+        "emotion": "curious",
+        "face_quality": 0.77
+      },
+      {
+        "person_id": "p01",
+        "role_guess": "couple",
+        "emotion": "excited",
+        "face_quality": 0.85
+      },
+      {
+        "person_id": "p03",
+        "role_guess": "friend",
+        "emotion": "excited",
+        "face_quality": 0.75
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "friend",
+        "emotion": "adventurous",
+        "face_quality": 0.75
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "hiking"
+    ],
+    "emotion": "curious",
+    "quality": {
+      "aesthetic": 0.85,
+      "sharpness": 0.84,
+      "exposure": 0.66,
+      "duplicate_score": 0.06
+    },
+    "semantic_caption": "旅行者站在标志性建筑前留下合影",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_010": {
+    "asset_id": "city_trip_010",
+    "filename": "city_trip_010.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_010.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T15:09:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "friend",
+        "emotion": "curious",
+        "face_quality": 0.91
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "couple",
+        "emotion": "adventurous",
+        "face_quality": 0.78
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "photographing"
+    ],
+    "emotion": "curious",
+    "quality": {
+      "aesthetic": 0.78,
+      "sharpness": 0.93,
+      "exposure": 0.83,
+      "duplicate_score": 0.14
+    },
+    "semantic_caption": "背着背包走在异国他乡的老城街道上",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_011": {
+    "asset_id": "city_trip_011",
+    "filename": "city_trip_011.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_011.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T15:20:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p05",
+        "role_guess": "traveler",
+        "emotion": "curious",
+        "face_quality": 0.82
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "couple",
+        "emotion": "excited",
+        "face_quality": 0.93
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "friend",
+        "emotion": "excited",
+        "face_quality": 0.85
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "traveler",
+        "emotion": "adventurous",
+        "face_quality": 0.75
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "eating"
+    ],
+    "emotion": "adventurous",
+    "quality": {
+      "aesthetic": 0.83,
+      "sharpness": 0.95,
+      "exposure": 0.79,
+      "duplicate_score": 0.12
+    },
+    "semantic_caption": "在海边拍下旅行中最灿烂的笑容",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_012": {
+    "asset_id": "city_trip_012",
+    "filename": "city_trip_012.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_012.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T12:29:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p02",
+        "role_guess": "friend",
+        "emotion": "excited",
+        "face_quality": 0.76
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "traveler",
+        "emotion": "adventurous",
+        "face_quality": 0.75
+      },
+      {
+        "person_id": "p05",
+        "role_guess": "couple",
+        "emotion": "excited",
+        "face_quality": 0.73
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "friend",
+        "emotion": "adventurous",
+        "face_quality": 0.75
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "exploring",
+      "walking"
+    ],
+    "emotion": "curious",
+    "quality": {
+      "aesthetic": 0.74,
+      "sharpness": 0.83,
+      "exposure": 0.73,
+      "duplicate_score": 0.12
+    },
+    "semantic_caption": "在海边拍下旅行中最灿烂的笑容",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_013": {
+    "asset_id": "city_trip_013",
+    "filename": "city_trip_013.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_013.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T17:36:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "friend",
+        "emotion": "excited",
+        "face_quality": 0.8
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "exploring"
+    ],
+    "emotion": "adventurous",
+    "quality": {
+      "aesthetic": 0.77,
+      "sharpness": 0.79,
+      "exposure": 0.77,
+      "duplicate_score": 0.06
+    },
+    "semantic_caption": "朋友几个人在街头探索当地美食",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "city_trip_014": {
+    "asset_id": "city_trip_014",
+    "filename": "city_trip_014.jpg",
+    "source_path": "sample_gallery/city_trip/city_trip_014.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-08-15T11:10:00+08:00",
+    "location": {
+      "lat": 31.23,
+      "lng": 121.474,
+      "city": "上海",
+      "poi": "外滩",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p04",
+        "role_guess": "couple",
+        "emotion": "adventurous",
+        "face_quality": 0.76
+      }
+    ],
+    "scene_tags": [
+      "travel",
+      "city",
+      "landmark",
+      "street",
+      "adventure"
+    ],
+    "actions": [
+      "photographing"
+    ],
+    "emotion": "curious",
+    "quality": {
+      "aesthetic": 0.84,
+      "sharpness": 0.73,
+      "exposure": 0.84,
+      "duplicate_score": 0.09
+    },
+    "semantic_caption": "背着背包走在异国他乡的老城街道上",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_001": {
+    "asset_id": "graduation_party_001",
+    "filename": "graduation_party_001.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_001.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-01T18:29:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p04",
+        "role_guess": "classmate",
+        "emotion": "excited",
+        "face_quality": 0.9
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "classmate",
+        "emotion": "nostalgic",
+        "face_quality": 0.77
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "friend",
+        "emotion": "joyful",
+        "face_quality": 0.88
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "toasting",
+      "cheering"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.93,
+      "sharpness": 0.85,
+      "exposure": 0.83,
+      "duplicate_score": 0.19
+    },
+    "semantic_caption": "生日蛋糕前的烛光映照着笑脸",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_002": {
+    "asset_id": "graduation_party_002",
+    "filename": "graduation_party_002.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_002.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-01T18:45:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p03",
+        "role_guess": "classmate",
+        "emotion": "nostalgic",
+        "face_quality": 0.84
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "smiling",
+      "cheering"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.72,
+      "sharpness": 0.9,
+      "exposure": 0.87,
+      "duplicate_score": 0.18
+    },
+    "semantic_caption": "生日蛋糕前的烛光映照着笑脸",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_003": {
+    "asset_id": "graduation_party_003",
+    "filename": "graduation_party_003.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_003.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-01T18:24:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p02",
+        "role_guess": "friend",
+        "emotion": "nostalgic",
+        "face_quality": 0.72
+      },
+      {
+        "person_id": "p01",
+        "role_guess": "friend",
+        "emotion": "joyful",
+        "face_quality": 0.86
+      },
+      {
+        "person_id": "p05",
+        "role_guess": "friend",
+        "emotion": "excited",
+        "face_quality": 0.89
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "toasting",
+      "hugging",
+      "cheering"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.81,
+      "sharpness": 0.82,
+      "exposure": 0.79,
+      "duplicate_score": 0.1
+    },
+    "semantic_caption": "生日蛋糕前的烛光映照着笑脸",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_004": {
+    "asset_id": "graduation_party_004",
+    "filename": "graduation_party_004.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_004.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-01T20:09:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p03",
+        "role_guess": "friend",
+        "emotion": "excited",
+        "face_quality": 0.79
+      },
+      {
+        "person_id": "p05",
+        "role_guess": "friend",
+        "emotion": "nostalgic",
+        "face_quality": 0.76
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "friend",
+        "emotion": "nostalgic",
+        "face_quality": 0.83
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "friend",
+        "emotion": "joyful",
+        "face_quality": 0.88
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.89,
+      "sharpness": 0.74,
+      "exposure": 0.75,
+      "duplicate_score": 0.12
+    },
+    "semantic_caption": "彩纸纷飞中大家欢呼拥抱",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_005": {
+    "asset_id": "graduation_party_005",
+    "filename": "graduation_party_005.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_005.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-01T20:20:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p03",
+        "role_guess": "friend",
+        "emotion": "excited",
+        "face_quality": 0.87
+      },
+      {
+        "person_id": "p03",
+        "role_guess": "friend",
+        "emotion": "joyful",
+        "face_quality": 0.92
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "hugging",
+      "cheering"
+    ],
+    "emotion": "nostalgic",
+    "quality": {
+      "aesthetic": 0.75,
+      "sharpness": 0.85,
+      "exposure": 0.74,
+      "duplicate_score": 0.1
+    },
+    "semantic_caption": "朋友们举起酒杯为毕业干杯",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_006": {
+    "asset_id": "graduation_party_006",
+    "filename": "graduation_party_006.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_006.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-01T21:00:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p04",
+        "role_guess": "friend",
+        "emotion": "joyful",
+        "face_quality": 0.92
+      },
+      {
+        "person_id": "p03",
+        "role_guess": "graduate",
+        "emotion": "excited",
+        "face_quality": 0.91
+      },
+      {
+        "person_id": "p05",
+        "role_guess": "classmate",
+        "emotion": "excited",
+        "face_quality": 0.76
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.89,
+      "sharpness": 0.79,
+      "exposure": 0.71,
+      "duplicate_score": 0.07
+    },
+    "semantic_caption": "毕业那天和最好的朋友留下最后一张合影",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_007": {
+    "asset_id": "graduation_party_007",
+    "filename": "graduation_party_007.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_007.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-01T19:54:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p03",
+        "role_guess": "classmate",
+        "emotion": "nostalgic",
+        "face_quality": 0.81
+      },
+      {
+        "person_id": "p03",
+        "role_guess": "classmate",
+        "emotion": "excited",
+        "face_quality": 0.85
+      },
+      {
+        "person_id": "p05",
+        "role_guess": "graduate",
+        "emotion": "excited",
+        "face_quality": 0.88
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "graduate",
+        "emotion": "excited",
+        "face_quality": 0.76
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "toasting",
+      "dancing"
+    ],
+    "emotion": "excited",
+    "quality": {
+      "aesthetic": 0.71,
+      "sharpness": 0.8,
+      "exposure": 0.87,
+      "duplicate_score": 0.18
+    },
+    "semantic_caption": "朋友们举起酒杯为毕业干杯",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_008": {
+    "asset_id": "graduation_party_008",
+    "filename": "graduation_party_008.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_008.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-01T22:54:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "graduate",
+        "emotion": "excited",
+        "face_quality": 0.86
+      },
+      {
+        "person_id": "p03",
+        "role_guess": "friend",
+        "emotion": "joyful",
+        "face_quality": 0.77
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.9,
+      "sharpness": 0.9,
+      "exposure": 0.79,
+      "duplicate_score": 0.17
+    },
+    "semantic_caption": "毕业那天和最好的朋友留下最后一张合影",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_009": {
+    "asset_id": "graduation_party_009",
+    "filename": "graduation_party_009.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_009.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-01T22:00:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p04",
+        "role_guess": "friend",
+        "emotion": "excited",
+        "face_quality": 0.84
+      },
+      {
+        "person_id": "p05",
+        "role_guess": "friend",
+        "emotion": "excited",
+        "face_quality": 0.8
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "graduate",
+        "emotion": "joyful",
+        "face_quality": 0.77
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "hugging"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.77,
+      "sharpness": 0.79,
+      "exposure": 0.66,
+      "duplicate_score": 0.14
+    },
+    "semantic_caption": "毕业那天和最好的朋友留下最后一张合影",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_010": {
+    "asset_id": "graduation_party_010",
+    "filename": "graduation_party_010.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_010.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-01T20:33:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p02",
+        "role_guess": "classmate",
+        "emotion": "excited",
+        "face_quality": 0.94
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "friend",
+        "emotion": "joyful",
+        "face_quality": 0.86
+      },
+      {
+        "person_id": "p03",
+        "role_guess": "classmate",
+        "emotion": "nostalgic",
+        "face_quality": 0.88
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "graduate",
+        "emotion": "nostalgic",
+        "face_quality": 0.74
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "toasting"
+    ],
+    "emotion": "nostalgic",
+    "quality": {
+      "aesthetic": 0.9,
+      "sharpness": 0.79,
+      "exposure": 0.83,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "朋友们举起酒杯为毕业干杯",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_011": {
+    "asset_id": "graduation_party_011",
+    "filename": "graduation_party_011.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_011.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-02T00:10:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p04",
+        "role_guess": "classmate",
+        "emotion": "nostalgic",
+        "face_quality": 0.94
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "cheering",
+      "hugging"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.87,
+      "sharpness": 0.84,
+      "exposure": 0.69,
+      "duplicate_score": 0.15
+    },
+    "semantic_caption": "彩纸纷飞中大家欢呼拥抱",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_012": {
+    "asset_id": "graduation_party_012",
+    "filename": "graduation_party_012.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_012.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-01T22:46:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p02",
+        "role_guess": "graduate",
+        "emotion": "joyful",
+        "face_quality": 0.74
+      },
+      {
+        "person_id": "p04",
+        "role_guess": "graduate",
+        "emotion": "joyful",
+        "face_quality": 0.8
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "graduate",
+        "emotion": "joyful",
+        "face_quality": 0.81
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "dancing",
+      "smiling"
+    ],
+    "emotion": "nostalgic",
+    "quality": {
+      "aesthetic": 0.87,
+      "sharpness": 0.8,
+      "exposure": 0.87,
+      "duplicate_score": 0.05
+    },
+    "semantic_caption": "生日蛋糕前的烛光映照着笑脸",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_013": {
+    "asset_id": "graduation_party_013",
+    "filename": "graduation_party_013.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_013.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-02T02:36:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p02",
+        "role_guess": "graduate",
+        "emotion": "nostalgic",
+        "face_quality": 0.81
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "friend",
+        "emotion": "nostalgic",
+        "face_quality": 0.89
+      },
+      {
+        "person_id": "p05",
+        "role_guess": "friend",
+        "emotion": "excited",
+        "face_quality": 0.89
+      },
+      {
+        "person_id": "p01",
+        "role_guess": "friend",
+        "emotion": "joyful",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "hugging",
+      "smiling"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.76,
+      "sharpness": 0.87,
+      "exposure": 0.67,
+      "duplicate_score": 0.15
+    },
+    "semantic_caption": "生日蛋糕前的烛光映照着笑脸",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_014": {
+    "asset_id": "graduation_party_014",
+    "filename": "graduation_party_014.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_014.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-02T02:53:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p03",
+        "role_guess": "graduate",
+        "emotion": "excited",
+        "face_quality": 0.8
+      },
+      {
+        "person_id": "p05",
+        "role_guess": "classmate",
+        "emotion": "excited",
+        "face_quality": 0.74
+      },
+      {
+        "person_id": "p05",
+        "role_guess": "friend",
+        "emotion": "excited",
+        "face_quality": 0.93
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "hugging",
+      "cheering",
+      "toasting"
+    ],
+    "emotion": "excited",
+    "quality": {
+      "aesthetic": 0.94,
+      "sharpness": 0.78,
+      "exposure": 0.67,
+      "duplicate_score": 0.07
+    },
+    "semantic_caption": "彩纸纷飞中大家欢呼拥抱",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_015": {
+    "asset_id": "graduation_party_015",
+    "filename": "graduation_party_015.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_015.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-01T20:34:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p05",
+        "role_guess": "graduate",
+        "emotion": "joyful",
+        "face_quality": 0.92
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "cheering",
+      "toasting",
+      "hugging"
+    ],
+    "emotion": "joyful",
+    "quality": {
+      "aesthetic": 0.87,
+      "sharpness": 0.77,
+      "exposure": 0.88,
+      "duplicate_score": 0.1
+    },
+    "semantic_caption": "生日蛋糕前的烛光映照着笑脸",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "graduation_party_016": {
+    "asset_id": "graduation_party_016",
+    "filename": "graduation_party_016.jpg",
+    "source_path": "sample_gallery/graduation_party/graduation_party_016.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-07-01T23:00:00+08:00",
+    "location": {
+      "lat": 30.573,
+      "lng": 104.067,
+      "city": "成都",
+      "poi": "四川大学",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "graduate",
+        "emotion": "excited",
+        "face_quality": 0.87
+      },
+      {
+        "person_id": "p05",
+        "role_guess": "graduate",
+        "emotion": "joyful",
+        "face_quality": 0.92
+      },
+      {
+        "person_id": "p02",
+        "role_guess": "graduate",
+        "emotion": "joyful",
+        "face_quality": 0.94
+      }
+    ],
+    "scene_tags": [
+      "party",
+      "celebration",
+      "graduation",
+      "friends",
+      "indoor"
+    ],
+    "actions": [
+      "toasting",
+      "dancing"
+    ],
+    "emotion": "excited",
+    "quality": {
+      "aesthetic": 0.84,
+      "sharpness": 0.87,
+      "exposure": 0.71,
+      "duplicate_score": 0.17
+    },
+    "semantic_caption": "穿着学士服在舞台上抛起学位帽",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_001": {
+    "asset_id": "pet_daily_001",
+    "filename": "pet_daily_001.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_001.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T10:00:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "running"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "小狗在草地上欢快地奔跑，尾巴摇个不停",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_002": {
+    "asset_id": "pet_daily_002",
+    "filename": "pet_daily_002.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_002.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T10:30:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "emotion": "cute",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "猫咪慵懒地躺在窗台上晒太阳",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_003": {
+    "asset_id": "pet_daily_003",
+    "filename": "pet_daily_003.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_003.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T11:00:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "sleeping"
+    ],
+    "emotion": "playful",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "主人带着狗狗在公园散步，遇到其他小伙伴",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_004": {
+    "asset_id": "pet_daily_004",
+    "filename": "pet_daily_004.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_004.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T11:30:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "emotion": "relaxed",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "小奶猫第一次尝试爬楼梯，笨拙又可爱",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_005": {
+    "asset_id": "pet_daily_005",
+    "filename": "pet_daily_005.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_005.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T12:00:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "eating"
+    ],
+    "emotion": "excited",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "狗狗在沙滩上追逐海浪，浑身湿透却很开心",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_006": {
+    "asset_id": "pet_daily_006",
+    "filename": "pet_daily_006.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_006.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T12:30:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "jumping"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "给猫咪洗澡，一脸不情愿的表情",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_007": {
+    "asset_id": "pet_daily_007",
+    "filename": "pet_daily_007.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_007.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T13:00:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "emotion": "cute",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "狗狗学会新技能，兴奋地等待奖励",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_008": {
+    "asset_id": "pet_daily_008",
+    "filename": "pet_daily_008.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_008.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T13:30:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "running"
+    ],
+    "emotion": "playful",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "傍晚和狗狗一起看日落，它安静地靠在脚边",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_009": {
+    "asset_id": "pet_daily_009",
+    "filename": "pet_daily_009.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_009.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T14:00:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "emotion": "relaxed",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "小猫追着自己的尾巴转圈圈",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_010": {
+    "asset_id": "pet_daily_010",
+    "filename": "pet_daily_010.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_010.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T14:30:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "sleeping"
+    ],
+    "emotion": "excited",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "带狗狗去宠物医院体检，乖乖地坐在诊疗台上",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_011": {
+    "asset_id": "pet_daily_011",
+    "filename": "pet_daily_011.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_011.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T15:00:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "小狗在草地上欢快地奔跑，尾巴摇个不停",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_012": {
+    "asset_id": "pet_daily_012",
+    "filename": "pet_daily_012.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_012.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T15:30:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "eating"
+    ],
+    "emotion": "cute",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "猫咪慵懒地躺在窗台上晒太阳",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_013": {
+    "asset_id": "pet_daily_013",
+    "filename": "pet_daily_013.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_013.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T16:00:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "jumping"
+    ],
+    "emotion": "playful",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "主人带着狗狗在公园散步，遇到其他小伙伴",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_014": {
+    "asset_id": "pet_daily_014",
+    "filename": "pet_daily_014.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_014.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T16:30:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "emotion": "relaxed",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "小奶猫第一次尝试爬楼梯，笨拙又可爱",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_015": {
+    "asset_id": "pet_daily_015",
+    "filename": "pet_daily_015.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_015.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T17:00:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "running"
+    ],
+    "emotion": "excited",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "狗狗在沙滩上追逐海浪，浑身湿透却很开心",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_016": {
+    "asset_id": "pet_daily_016",
+    "filename": "pet_daily_016.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_016.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T17:30:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "给猫咪洗澡，一脸不情愿的表情",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_017": {
+    "asset_id": "pet_daily_017",
+    "filename": "pet_daily_017.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_017.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T18:00:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "sleeping"
+    ],
+    "emotion": "cute",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "狗狗学会新技能，兴奋地等待奖励",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_018": {
+    "asset_id": "pet_daily_018",
+    "filename": "pet_daily_018.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_018.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T18:30:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "emotion": "playful",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "傍晚和狗狗一起看日落，它安静地靠在脚边",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_019": {
+    "asset_id": "pet_daily_019",
+    "filename": "pet_daily_019.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_019.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T19:00:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home",
+      "park"
+    ],
+    "actions": [
+      "eating"
+    ],
+    "emotion": "relaxed",
+    "quality": {
+      "aesthetic": 0.82,
+      "sharpness": 0.88,
+      "exposure": 0.79,
+      "duplicate_score": 0.08
+    },
+    "semantic_caption": "小猫追着自己的尾巴转圈圈",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  },
+  "pet_daily_020": {
+    "asset_id": "pet_daily_020",
+    "filename": "pet_daily_020.jpg",
+    "source_path": "sample_gallery/pet_daily/pet_daily_020.jpg",
+    "asset_type": "image",
+    "timestamp": "2024-05-10T19:00:00+08:00",
+    "location": {
+      "lat": 22.527,
+      "lng": 113.943,
+      "city": "深圳",
+      "poi": "小区花园",
+      "privacy_level": "city_only"
+    },
+    "people": [
+      {
+        "person_id": "p01",
+        "role_guess": "owner",
+        "emotion": "happy",
+        "face_quality": 0.85
+      }
+    ],
+    "scene_tags": [
+      "pet",
+      "outdoor",
+      "home"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "emotion": "happy",
+    "quality": {
+      "aesthetic": 0.85,
+      "sharpness": 0.88,
+      "exposure": 0.8,
+      "duplicate_score": 0.05
+    },
+    "semantic_caption": "主人和狗狗在夕阳下玩耍，画面温馨",
+    "safety": {
+      "sensitive": false,
+      "risk_tags": [],
+      "share_allowed": true
+    }
+  }
+}
